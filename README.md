@@ -3,11 +3,13 @@ Marko Widgets with Lasso.js
 
 This sample app demonstrates how to build a UI component using [Marko Widgets](https://github.com/marko-js/marko-widgets) that uses [Lasso.js](https://github.com/lasso-js/lasso) to bundle up the required JavaScript and CSS code.
 
+(forked from: https://github.com/marko-js-samples/marko-widgets-lasso.git)
+
 # Installation
 
 ```
-git clone https://github.com/marko-js-samples/marko-widgets-lasso.git
-cd marko-widgets-lasso
+git clone git@github.com:ivarconr/marko-widgets-demo.git
+cd marko-widgets-demo
 npm install
 ```
 
